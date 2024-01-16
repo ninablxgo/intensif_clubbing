@@ -157,10 +157,6 @@
 		{
 			"Name": "HairStrands",
 			"Enabled": true
-		},
-		{
-			"Name": "GolaemPlugin",
-			"Enabled": true
 		}
 	]
 }
