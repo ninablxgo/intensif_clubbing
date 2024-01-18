@@ -163,7 +163,6 @@
 			"Enabled": true
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 		},
 		{
 			"Name": "RemoteControlProtocolOSC",
@@ -172,8 +171,6 @@
 		{
 			"Name": "GolaemPlugin",
 			"Enabled": true
-=======
->>>>>>> parent of 93da09b (Merge branch 'tyler' into ambrine)
 =======
 >>>>>>> parent of 93da09b (Merge branch 'tyler' into ambrine)
 =======
