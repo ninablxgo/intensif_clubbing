@@ -12,3 +12,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Plugins/GolaemForUnreal-8.2.6-UE_5.3/Content/Python/future/__pycache__/__init__.cpython-39.pyc
+Plugins/GolaemForUnreal-8.2.6-UE_5.3/Content/Python/future/__pycache__/__init__.cpython-39.pyc
+Plugins/GolaemForUnreal-8.2.6-UE_5.3/Content/Python/glm/__pycache__/__init__.cpython-39.pyc
+*.pyc
