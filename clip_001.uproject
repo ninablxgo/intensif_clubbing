@@ -159,7 +159,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "GolaemPlugin",
+			"Name": "RemoteControlProtocolOSC",
 			"Enabled": true
 		}
 	]
