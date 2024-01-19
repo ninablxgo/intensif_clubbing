@@ -147,6 +147,10 @@
 			"Enabled": true
 		},
 		{
+			"Name": "GolaemPlugin",
+			"Enabled": true
+		},
+		{
 			"Name": "RigLogic",
 			"Enabled": true
 		},
@@ -157,6 +161,7 @@
 		{
 			"Name": "HairStrands",
 			"Enabled": true
+<<<<<<< HEAD
 		},
 		{
 			"Name": "RemoteControlProtocolOSC",
@@ -165,6 +170,8 @@
 		{
 			"Name": "GolaemPlugin",
 			"Enabled": true
+=======
+>>>>>>> parent of 93da09b (Merge branch 'tyler' into ambrine)
 		}
 	]
 }
