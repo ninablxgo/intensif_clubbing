@@ -147,6 +147,10 @@
 			"Enabled": true
 		},
 		{
+			"Name": "GolaemPlugin",
+			"Enabled": true
+		},
+		{
 			"Name": "RigLogic",
 			"Enabled": true
 		},
@@ -156,10 +160,6 @@
 		},
 		{
 			"Name": "HairStrands",
-			"Enabled": true
-		},
-		{
-			"Name": "RemoteControlProtocolOSC",
 			"Enabled": true
 		}
 	]
