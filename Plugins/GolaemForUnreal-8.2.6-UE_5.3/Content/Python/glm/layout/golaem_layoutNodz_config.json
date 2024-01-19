@@ -1,0 +1,203 @@
+{
+    // General > Edit values BUT do not delete.
+    "scene_width": 1920,
+    "scene_height": 1080,
+    "scene_marginRatio": 2,
+    "grid_size": 30,
+    "antialiasing": true,
+    "antialiasing_boost": true,
+    "smooth_pixmap": true,
+
+    "node_font": "Verdana",
+    "node_font_size": 12,
+    "attr_font": "Verdana",
+    "attr_font_size": 7,
+    "mouse_bounding_box": 80,
+
+    // Shapes > Edit values BUT do not delete.
+    "node_width": 170,
+    "node_height": 25,
+    "node_radius": 10,
+    "node_border": 2,
+    "node_attr_height": 20,
+    "connection_width": 2,
+    "connection_sel_width": 4,
+
+    // Display limits for attributes and title, attributes / title will be skipped when nodes width are less than xx pixels on screen
+    "node_title_display_limit": 60,
+    "attributes_display_limit": 115,
+    "big_icon_display_limit": 75,
+
+    // Default colors > Edit values BUT do not delete.
+    "alternate_value": 45,
+    "grid_color": [54, 58, 62, 255],
+    "grid_background_color": [42, 42, 42, 255],
+    "i": [107, 118, 128, 255],
+    "non_connectable_color": [100, 100, 100, 255],
+    "connection_color": [171, 184, 195, 255],
+    "connection_sel_color": [238, 165, 18, 255],
+
+    "node_default": {
+        "bg": [61, 67, 72, 255],
+        "bg_sel": [61, 67, 72, 255],
+        "border": [107, 118, 128, 255],
+        "border_sel": [238, 165, 18, 255],
+        "text": [171, 183, 195, 255]
+    },
+
+    "attr_default": {
+        "bg": [61, 67, 72, 100],
+        "text": [171, 183, 195, 255],
+        "plug": [107, 118, 128, 255],
+        "socket": [107, 118, 128, 255]
+    },
+
+    // Custom colors > Add and remove as you want.
+    // Don't forget to edit the end of the dictionary if editing the
+    // following part.
+
+    // root node
+    "node_preset_root": {
+        "bg": [72, 170, 181, 255],
+        "bg_sel": [243, 109, 10, 255],
+        "border": [72, 170, 181, 255],
+        "border_sel": [238, 165, 18, 255],
+        "text": [72, 170, 181, 255]
+    },
+    "node_preset_root_inactive": {
+        "bg": [72, 170, 181, 100],
+        "bg_sel": [243, 109, 10, 100],
+        "border": [72, 170, 181, 100],
+        "border_sel": [238, 165, 18, 100],
+        "text": [72, 170, 181, 255]
+    },
+    // selector node
+	"node_preset_LayoutSelectorNode": {
+        "bg": [150, 150, 150, 255],
+        "bg_sel": [237, 128, 18, 255],
+        "border": [107, 118, 128, 255],
+        "border_sel": [238, 165, 18, 255],
+        "text": [171, 183, 195, 255]
+    },
+    "node_preset_LayoutSelectorNode_inactive": {
+        "bg": [150, 150, 150, 100],
+        "bg_sel": [237, 128, 18, 100],
+        "border": [107, 118, 128, 100],
+        "border_sel": [238, 165, 18, 100],
+        "text": [230, 230, 230, 100]
+    },
+    "attr_preset_LayoutSelectorConnection": {
+        "bg": [150, 150, 150, 100],
+        "text": [220, 220, 220, 255],
+        "plug": [107, 118, 128, 255],
+        "socket": [107, 118, 128, 255]
+    },
+    "attr_preset_LayoutSelectorConnection_highlight": {
+        "bg": [27, 182, 66, 255],
+        "text": [0, 0, 0, 255],
+        "plug": [107, 118, 128, 255],
+        "socket": [107, 118, 128, 255]
+    },
+    // operator node
+    "node_preset_LayoutOperatorNode": {
+        "bg": [61, 67, 72, 255],
+        "bg_sel": [237, 128, 18, 255],
+        "border": [107, 118, 128, 255],
+        "border_sel": [238, 165, 18, 255],
+        "text": [171, 183, 195, 255]
+    },
+    "node_preset_LayoutOperatorNode_inactive": {
+        "bg": [61, 67, 72, 100],
+        "bg_sel": [237, 128, 18, 100],
+        "border": [107, 118, 128, 100],
+        "border_sel": [238, 165, 18, 100],
+        "text": [171, 183, 195, 100]
+    },
+    "attr_preset_LayoutOperatorConnection": {
+        "bg": [61, 67, 72, 100],
+        "text": [171, 183, 195, 255],
+        "plug": [107, 118, 128, 255],
+        "socket": [107, 118, 128, 255]
+    },
+    "attr_preset_LayoutOperatorConnection_highlight": {
+        "bg": [27, 182, 66, 255],
+        "text": [0, 0, 0, 255],
+        "plug": [107, 118, 128, 255],
+        "socket": [107, 118, 128, 255]
+    },
+    // Group node
+    "node_preset_group": {
+        "bg": [34, 37, 40, 255],
+        "bg_sel": [237, 128, 18, 255],
+        "border": [107, 118, 128, 255],
+        "border_sel": [238, 165, 18, 255],
+        "text": [171, 183, 195, 255]
+    },
+    "node_preset_group_inactive": {
+        "bg": [34, 37, 40, 100],
+        "bg_sel": [237, 128, 18, 100],
+        "border": [107, 118, 128, 100],
+        "border_sel": [238, 165, 18, 100],
+        "text": [171, 183, 195, 100]
+    },
+    "attr_preset_group": {
+        "bg": [34, 37, 40, 100],
+        "text": [171, 183, 195, 255],
+        "plug": [107, 118, 128, 255],
+        "socket": [107, 118, 128, 255]
+    },
+    "attr_preset_group_highlight": {
+        "bg": [27, 182, 66, 255],
+        "text": [0, 0, 0, 255],
+        "plug": [107, 118, 128, 255],
+        "socket": [107, 118, 128, 255]
+    },    
+    // notes node
+    "node_preset_notes": {
+        "bg": [0, 255, 0, 100],
+        "bg_sel": [237, 128, 18, 255],
+        "border": [100, 255, 100, 100],
+        "border_sel": [100, 255, 100, 100],
+        "text": [171, 183, 195, 255]
+    },
+    "attr_preset_notes": {
+        "bg": [0, 255, 0, 255],
+        "border": [100, 255, 100, 100],
+        "border_sel": [100, 255, 100, 100],
+        "text": [0, 0, 0, 255]
+    },
+    // others
+    "attr_preset_LayoutCacheStatus": {
+        "bg": [61, 67, 72, 100],
+        "text": [220, 220, 220, 255],
+        "plug": [107, 118, 128, 255],
+        "socket": [107, 118, 128, 255]
+    },
+    // selector filter node
+    "node_preset_LayoutSelectorFilterNode": {
+        "bg": [190, 190, 190, 255],
+        "bg_sel": [237, 128, 18, 255],
+        "border": [107, 118, 128, 255],
+        "border_sel": [238, 165, 18, 255],
+        "text": [171, 183, 195, 255]
+    },
+    "node_preset_LayoutSelectorFilterNode_inactive": {
+        "bg": [190, 190, 190, 100],
+        "bg_sel": [237, 128, 18, 100],
+        "border": [107, 118, 128, 100],
+        "border_sel": [238, 165, 18, 100],
+        "text": [230, 230, 230, 100]
+    },
+    "attr_preset_LayoutSelectorFilterConnection": {
+        "bg": [150, 150, 150, 100],
+        "text": [220, 220, 220, 255],
+        "plug": [107, 118, 128, 255],
+        "socket": [107, 118, 128, 255]
+    },
+    "attr_preset_LayoutSelectorFilterConnection_highlight": {
+        "bg": [27, 182, 66, 255],
+        "text": [0, 0, 0, 255],
+        "plug": [107, 118, 128, 255],
+        "socket": [107, 118, 128, 255]
+    }    
+}
