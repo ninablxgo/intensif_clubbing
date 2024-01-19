@@ -1,0 +1,241 @@
+commit 84d72eca499604ca079ce4b4bf12d94b2cb190d3
+Author: Nina Blagojevic <ninablvc@gmail.com>
+Date:   Thu Jan 18 17:11:50 2024 +0100
+
+    enviro_ambrine_decal
+
+diff --git a/Content/INTENSIF/AMBRINE/enviro_ambrine.umap b/Content/INTENSIF/AMBRINE/enviro_ambrine.umap
+index db07ebe..3eede09 100644
+--- a/Content/INTENSIF/AMBRINE/enviro_ambrine.umap
++++ b/Content/INTENSIF/AMBRINE/enviro_ambrine.umap
+@@ -1,3 +1,3 @@
+ version https://git-lfs.github.com/spec/v1
+-oid sha256:be923986a55358dd52f75224794d200dcbc7841e91eecb1f085bcf501cdb87bc
+-size 2171989
++oid sha256:fbbcf3699bd472e1babd8df68f3a7ac5d14339908baaad0b9a6db4679b5c4722
++size 2212582
+diff --git a/Content/Megascans/Decals/Graffiti_Tag_ujznddlv/MI_Graffiti_Tag_ujznddlv_4K.uasset b/Content/Megascans/Decals/Graffiti_Tag_ujznddlv/MI_Graffiti_Tag_ujznddlv_4K.uasset
+new file mode 100644
+index 0000000..5dc6cc0
+--- /dev/null
++++ b/Content/Megascans/Decals/Graffiti_Tag_ujznddlv/MI_Graffiti_Tag_ujznddlv_4K.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:45705eca748ab44975842666a35274898cd91c55893f6da57dd7459ed6edbc5c
++size 3485
+diff --git a/Content/Megascans/Decals/Graffiti_Tag_ujznddlv/T_GraffitiTag_ujznddlv_4K_DpRA.uasset b/Content/Megascans/Decals/Graffiti_Tag_ujznddlv/T_GraffitiTag_ujznddlv_4K_DpRA.uasset
+new file mode 100644
+index 0000000..34b5402
+--- /dev/null
++++ b/Content/Megascans/Decals/Graffiti_Tag_ujznddlv/T_GraffitiTag_ujznddlv_4K_DpRA.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:16c097f42dfeb07dca146b5040b210f6622b761d69740a5f9239d4561af51784
++size 7947653
+diff --git a/Content/Megascans/Decals/Graffiti_Tag_ujznddlv/T_Graffiti_Tag_ujznddlv_4K_D.uasset b/Content/Megascans/Decals/Graffiti_Tag_ujznddlv/T_Graffiti_Tag_ujznddlv_4K_D.uasset
+new file mode 100644
+index 0000000..4599740
+--- /dev/null
++++ b/Content/Megascans/Decals/Graffiti_Tag_ujznddlv/T_Graffiti_Tag_ujznddlv_4K_D.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:5e581fbda18e08ddc0d607c0cde11d079b96e862901718f5df3e43affafde501
++size 11487071
+diff --git a/Content/Megascans/Decals/Graffiti_Tag_ve0kdhql/MI_Graffiti_Tag_ve0kdhql_4K.uasset b/Content/Megascans/Decals/Graffiti_Tag_ve0kdhql/MI_Graffiti_Tag_ve0kdhql_4K.uasset
+new file mode 100644
+index 0000000..f33656f
+--- /dev/null
++++ b/Content/Megascans/Decals/Graffiti_Tag_ve0kdhql/MI_Graffiti_Tag_ve0kdhql_4K.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:7d8c0b86e9a6f664acbf3bf750a9bf48b5d018b775011cb49cfa92fa4bce6ebd
++size 3485
+diff --git a/Content/Megascans/Decals/Graffiti_Tag_ve0kdhql/T_GraffitiTag_ve0kdhql_4K_DpRA.uasset b/Content/Megascans/Decals/Graffiti_Tag_ve0kdhql/T_GraffitiTag_ve0kdhql_4K_DpRA.uasset
+new file mode 100644
+index 0000000..42c8a9e
+--- /dev/null
++++ b/Content/Megascans/Decals/Graffiti_Tag_ve0kdhql/T_GraffitiTag_ve0kdhql_4K_DpRA.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:65b2709543c96776e2a10aca5719a5fa7b8947f9621a43b1564d16a654ee940c
++size 11668989
+diff --git a/Content/Megascans/Decals/Graffiti_Tag_ve0kdhql/T_Graffiti_Tag_ve0kdhql_4K_D.uasset b/Content/Megascans/Decals/Graffiti_Tag_ve0kdhql/T_Graffiti_Tag_ve0kdhql_4K_D.uasset
+new file mode 100644
+index 0000000..b629d5d
+--- /dev/null
++++ b/Content/Megascans/Decals/Graffiti_Tag_ve0kdhql/T_Graffiti_Tag_ve0kdhql_4K_D.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:545125a687be179ae95d2367da59e6009b53bb6451db087f9966b4d534e79619
++size 10884185
+diff --git a/Content/Megascans/Decals/Graffiti_vlmpfhuc/MI_Graffiti_vlmpfhuc_4K.uasset b/Content/Megascans/Decals/Graffiti_vlmpfhuc/MI_Graffiti_vlmpfhuc_4K.uasset
+new file mode 100644
+index 0000000..c3b0bb6
+--- /dev/null
++++ b/Content/Megascans/Decals/Graffiti_vlmpfhuc/MI_Graffiti_vlmpfhuc_4K.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:ca8b45ae61a83b08b120c39ba2166679b2d12e30d2b1b72d54eb71d14f9841b1
++size 3447
+diff --git a/Content/Megascans/Decals/Graffiti_vlmpfhuc/T_Graffiti_vlmpfhuc_4K_D.uasset b/Content/Megascans/Decals/Graffiti_vlmpfhuc/T_Graffiti_vlmpfhuc_4K_D.uasset
+new file mode 100644
+index 0000000..da0088a
+--- /dev/null
++++ b/Content/Megascans/Decals/Graffiti_vlmpfhuc/T_Graffiti_vlmpfhuc_4K_D.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:bf94be61737ae6ed9d90ff21b43615ab84c749e8a5c848fd4ed0cdd8eb8e5ce2
++size 19644917
+diff --git a/Content/Megascans/Decals/Graffiti_vlmpfhuc/T_Graffiti_vlmpfhuc_4K_DpRA.uasset b/Content/Megascans/Decals/Graffiti_vlmpfhuc/T_Graffiti_vlmpfhuc_4K_DpRA.uasset
+new file mode 100644
+index 0000000..ab7e63a
+--- /dev/null
++++ b/Content/Megascans/Decals/Graffiti_vlmpfhuc/T_Graffiti_vlmpfhuc_4K_DpRA.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:7e9cb1c18a276b8efd8e5192ccb8d4d29aba870e1b2c8ab77c7f98c3c091b820
++size 1838482
+diff --git a/Content/Megascans/Decals/Painted_Stop_Sign_uitmcbpn/MI_Painted_Stop_Sign_uitmcbpn_4K.uasset b/Content/Megascans/Decals/Painted_Stop_Sign_uitmcbpn/MI_Painted_Stop_Sign_uitmcbpn_4K.uasset
+new file mode 100644
+index 0000000..827a8c2
+--- /dev/null
++++ b/Content/Megascans/Decals/Painted_Stop_Sign_uitmcbpn/MI_Painted_Stop_Sign_uitmcbpn_4K.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:1ec56aa48535d4b7021578714e65cd3792c3fb8cd39c71d238722e81af6db0a1
++size 4020
+diff --git a/Content/Megascans/Decals/Painted_Stop_Sign_uitmcbpn/T_PaintedStopSign_uitmcbpn_4K_DpRA.uasset b/Content/Megascans/Decals/Painted_Stop_Sign_uitmcbpn/T_PaintedStopSign_uitmcbpn_4K_DpRA.uasset
+new file mode 100644
+index 0000000..4d19e18
+--- /dev/null
++++ b/Content/Megascans/Decals/Painted_Stop_Sign_uitmcbpn/T_PaintedStopSign_uitmcbpn_4K_DpRA.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:0aa45f0cd25ee35bb9bdae0845a72eaf7b2fec1e09ed32b4cdf529d71ef6571d
++size 22465899
+diff --git a/Content/Megascans/Decals/Painted_Stop_Sign_uitmcbpn/T_Painted_Stop_Sign_uitmcbpn_4K_D.uasset b/Content/Megascans/Decals/Painted_Stop_Sign_uitmcbpn/T_Painted_Stop_Sign_uitmcbpn_4K_D.uasset
+new file mode 100644
+index 0000000..5302962
+--- /dev/null
++++ b/Content/Megascans/Decals/Painted_Stop_Sign_uitmcbpn/T_Painted_Stop_Sign_uitmcbpn_4K_D.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:586d080ae52fabac2d5e75d75b6118b2f479f5f06add3e25b66dc533419d4524
++size 72206043
+diff --git a/Content/Megascans/Decals/Painted_Stop_Sign_uitmcbpn/T_Painted_Stop_Sign_uitmcbpn_4K_N.uasset b/Content/Megascans/Decals/Painted_Stop_Sign_uitmcbpn/T_Painted_Stop_Sign_uitmcbpn_4K_N.uasset
+new file mode 100644
+index 0000000..a528237
+--- /dev/null
++++ b/Content/Megascans/Decals/Painted_Stop_Sign_uitmcbpn/T_Painted_Stop_Sign_uitmcbpn_4K_N.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:90521d5fb27de3d38093c2aac4ae4d8ca93638d8f5d5c1f33855c522bf88ca03
++size 46554831
+diff --git a/Content/Megascans/Decals/Round_Manhole_Cover_uljcejs/MI_Round_Manhole_Cover_uljcejs_4K.uasset b/Content/Megascans/Decals/Round_Manhole_Cover_uljcejs/MI_Round_Manhole_Cover_uljcejs_4K.uasset
+new file mode 100644
+index 0000000..4d6d4a0
+--- /dev/null
++++ b/Content/Megascans/Decals/Round_Manhole_Cover_uljcejs/MI_Round_Manhole_Cover_uljcejs_4K.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:76bb04ae9adc1be7f084944a1968eec4b1b23707f87d45be69a30a9a70cb2e41
++size 4033
+diff --git a/Content/Megascans/Decals/Round_Manhole_Cover_uljcejs/T_RoundManholeCover_uljcejs_4K_DpRA.uasset b/Content/Megascans/Decals/Round_Manhole_Cover_uljcejs/T_RoundManholeCover_uljcejs_4K_DpRA.uasset
+new file mode 100644
+index 0000000..5a0b664
+--- /dev/null
++++ b/Content/Megascans/Decals/Round_Manhole_Cover_uljcejs/T_RoundManholeCover_uljcejs_4K_DpRA.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:9051962d4e3829f30117e701fa5336b99d1a7ad80849f52a1738d772bcfabddf
++size 25204886
+diff --git a/Content/Megascans/Decals/Round_Manhole_Cover_uljcejs/T_Round_Manhole_Cover_uljcejs_4K_D.uasset b/Content/Megascans/Decals/Round_Manhole_Cover_uljcejs/T_Round_Manhole_Cover_uljcejs_4K_D.uasset
+new file mode 100644
+index 0000000..781c5cf
+--- /dev/null
++++ b/Content/Megascans/Decals/Round_Manhole_Cover_uljcejs/T_Round_Manhole_Cover_uljcejs_4K_D.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:b0b789add40556e9cb035f22981842bd9a3bd67109d7128af0d21caaae6dd7ad
++size 73039895
+diff --git a/Content/Megascans/Decals/Round_Manhole_Cover_uljcejs/T_Round_Manhole_Cover_uljcejs_4K_N.uasset b/Content/Megascans/Decals/Round_Manhole_Cover_uljcejs/T_Round_Manhole_Cover_uljcejs_4K_N.uasset
+new file mode 100644
+index 0000000..746b432
+--- /dev/null
++++ b/Content/Megascans/Decals/Round_Manhole_Cover_uljcejs/T_Round_Manhole_Cover_uljcejs_4K_N.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:feea1dc62d286cf12416c33e248d2f8e11a73592737f721bdae8ca1015def29c
++size 59897495
+diff --git a/Content/Megascans/Decals/Tile_Rubble_Pile_tcupfgh/MI_Tile_Rubble_Pile_tcupfgh_4K.uasset b/Content/Megascans/Decals/Tile_Rubble_Pile_tcupfgh/MI_Tile_Rubble_Pile_tcupfgh_4K.uasset
+new file mode 100644
+index 0000000..cfe1c69
+--- /dev/null
++++ b/Content/Megascans/Decals/Tile_Rubble_Pile_tcupfgh/MI_Tile_Rubble_Pile_tcupfgh_4K.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:8440311f11b6f4cd3fd84b3b1807d8eb8c5d68f079287a4afbc639f46777bf98
++size 3994
+diff --git a/Content/Megascans/Decals/Tile_Rubble_Pile_tcupfgh/T_TileRubblePile_tcupfgh_4K_DpRA.uasset b/Content/Megascans/Decals/Tile_Rubble_Pile_tcupfgh/T_TileRubblePile_tcupfgh_4K_DpRA.uasset
+new file mode 100644
+index 0000000..16b8827
+--- /dev/null
++++ b/Content/Megascans/Decals/Tile_Rubble_Pile_tcupfgh/T_TileRubblePile_tcupfgh_4K_DpRA.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:5ece9f8011206219de14168f41369aa216467de1e6a85350bd1e0adf683f7d9c
++size 35932689
+diff --git a/Content/Megascans/Decals/Tile_Rubble_Pile_tcupfgh/T_Tile_Rubble_Pile_tcupfgh_4K_D.uasset b/Content/Megascans/Decals/Tile_Rubble_Pile_tcupfgh/T_Tile_Rubble_Pile_tcupfgh_4K_D.uasset
+new file mode 100644
+index 0000000..b97ae31
+--- /dev/null
++++ b/Content/Megascans/Decals/Tile_Rubble_Pile_tcupfgh/T_Tile_Rubble_Pile_tcupfgh_4K_D.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:ffc3417f923f448f1bbed85d66df9b9cda8adf835b8ab1d0269eb983fca1f1ff
++size 76387159
+diff --git a/Content/Megascans/Decals/Tile_Rubble_Pile_tcupfgh/T_Tile_Rubble_Pile_tcupfgh_4K_N.uasset b/Content/Megascans/Decals/Tile_Rubble_Pile_tcupfgh/T_Tile_Rubble_Pile_tcupfgh_4K_N.uasset
+new file mode 100644
+index 0000000..a1f7366
+--- /dev/null
++++ b/Content/Megascans/Decals/Tile_Rubble_Pile_tcupfgh/T_Tile_Rubble_Pile_tcupfgh_4K_N.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:b6d82019b428ccfb5ae328c9b91692cc1d019b0e47d70a799fed218563f1d0e9
++size 69872354
+diff --git a/Content/Megascans/Decals/Torn_Poster_tcimuap/MI_Torn_Poster_tcimuap_4K.uasset b/Content/Megascans/Decals/Torn_Poster_tcimuap/MI_Torn_Poster_tcimuap_4K.uasset
+new file mode 100644
+index 0000000..5f26238
+--- /dev/null
++++ b/Content/Megascans/Decals/Torn_Poster_tcimuap/MI_Torn_Poster_tcimuap_4K.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:ab61fef0730950e6ce279b9a09a5c2fd0d62d71d8231f3df0be8b497e7d30f4b
++size 3931
+diff --git a/Content/Megascans/Decals/Torn_Poster_tcimuap/T_TornPoster_tcimuap_4K_DpRA.uasset b/Content/Megascans/Decals/Torn_Poster_tcimuap/T_TornPoster_tcimuap_4K_DpRA.uasset
+new file mode 100644
+index 0000000..87233a1
+--- /dev/null
++++ b/Content/Megascans/Decals/Torn_Poster_tcimuap/T_TornPoster_tcimuap_4K_DpRA.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:e6f7e6dba4fe9d1d291c1518ea1fefa79c082beccdc63e75079d151e595695d2
++size 20519731
+diff --git a/Content/Megascans/Decals/Torn_Poster_tcimuap/T_Torn_Poster_tcimuap_4K_D.uasset b/Content/Megascans/Decals/Torn_Poster_tcimuap/T_Torn_Poster_tcimuap_4K_D.uasset
+new file mode 100644
+index 0000000..31c0387
+--- /dev/null
++++ b/Content/Megascans/Decals/Torn_Poster_tcimuap/T_Torn_Poster_tcimuap_4K_D.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:29f85217d6d6b17e34200fec37b0479ead8e90278dd4213f0d7ef1b7634ac8f5
++size 73191160
+diff --git a/Content/Megascans/Decals/Torn_Poster_tcimuap/T_Torn_Poster_tcimuap_4K_N.uasset b/Content/Megascans/Decals/Torn_Poster_tcimuap/T_Torn_Poster_tcimuap_4K_N.uasset
+new file mode 100644
+index 0000000..52400b1
+--- /dev/null
++++ b/Content/Megascans/Decals/Torn_Poster_tcimuap/T_Torn_Poster_tcimuap_4K_N.uasset
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:13e5b24f19dc30b940b9a6a78d7db84da4f6fd96a7440983ca8f1107c6e0624d
++size 21601828
