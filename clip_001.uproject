@@ -147,10 +147,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "GolaemPlugin",
-			"Enabled": true
-		},
-		{
 			"Name": "RigLogic",
 			"Enabled": true
 		},
@@ -163,6 +159,7 @@
 			"Enabled": true
 		},
 		{
+<<<<<<< HEAD
 			"Name": "DMXEngine",
 			"Enabled": true
 		},
@@ -172,6 +169,17 @@
 		},
 		{
 			"Name": "DMXControlConsole",
+=======
+			"Name": "ChaosClothAsset",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosClothAssetEditor",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosClothGenerator",
+>>>>>>> nina
 			"Enabled": true
 		}
 	]
