@@ -147,10 +147,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "GolaemPlugin",
-			"Enabled": true
-		},
-		{
 			"Name": "RigLogic",
 			"Enabled": true
 		},
@@ -160,6 +156,18 @@
 		},
 		{
 			"Name": "HairStrands",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosClothAsset",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosClothAssetEditor",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosClothGenerator",
 			"Enabled": true
 		}
 	]
