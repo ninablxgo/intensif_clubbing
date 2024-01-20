@@ -147,10 +147,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "GolaemPlugin",
-			"Enabled": true
-		},
-		{
 			"Name": "RigLogic",
 			"Enabled": true
 		},
