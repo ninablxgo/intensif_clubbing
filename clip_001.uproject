@@ -169,6 +169,14 @@
 		{
 			"Name": "DMXControlConsole",
 			"Enabled": true
+		},
+		{
+			"Name": "DMXDisplayCluster",
+			"Enabled": true
+		},
+		{
+			"Name": "DMXPixelMapping",
+			"Enabled": true
 		}
 	]
 }
