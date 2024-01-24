@@ -169,6 +169,10 @@
 		{
 			"Name": "ChaosClothGenerator",
 			"Enabled": true
+		},
+		{
+			"Name": "GolaemPlugin",
+			"Enabled": true
 		}
 	]
 }
