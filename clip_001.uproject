@@ -159,23 +159,19 @@
 			"Enabled": true
 		},
 		{
-			"Name": "DMXEngine",
+			"Name": "ChaosClothAsset",
 			"Enabled": true
 		},
 		{
-			"Name": "DMXFixtures",
+			"Name": "ChaosClothAssetEditor",
 			"Enabled": true
 		},
 		{
-			"Name": "DMXControlConsole",
+			"Name": "ChaosClothGenerator",
 			"Enabled": true
 		},
 		{
-			"Name": "DMXDisplayCluster",
-			"Enabled": true
-		},
-		{
-			"Name": "DMXPixelMapping",
+			"Name": "GolaemPlugin",
 			"Enabled": true
 		}
 	]
