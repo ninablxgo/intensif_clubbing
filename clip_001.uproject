@@ -177,10 +177,6 @@
 		{
 			"Name": "DMXPixelMapping",
 			"Enabled": true
-		},
-		{
-			"Name": "GolaemPlugin",
-			"Enabled": true
 		}
 	]
 }
