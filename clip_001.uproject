@@ -159,16 +159,27 @@
 			"Enabled": true
 		},
 		{
-			"Name": "ChaosClothAsset",
+			"Name": "DMXEngine",
 			"Enabled": true
 		},
 		{
-			"Name": "ChaosClothAssetEditor",
+			"Name": "DMXFixtures",
 			"Enabled": true
 		},
 		{
-			"Name": "ChaosClothGenerator",
+			"Name": "DMXControlConsole",
 			"Enabled": true
+<<<<<<< HEAD
+=======
+		},
+		{
+			"Name": "DMXDisplayCluster",
+			"Enabled": true
+		},
+		{
+			"Name": "DMXPixelMapping",
+			"Enabled": true
+>>>>>>> parent of e66b8fa (Merge branch 'tyler' into ambrine)
 		}
 	]
 }
