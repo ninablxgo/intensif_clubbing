@@ -171,11 +171,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "NiagaraFluids",
-			"Enabled": true
-		},
-		{
-			"Name": "GolaemPlugin",
+			"Name": "MetaHuman",
 			"Enabled": true
 		}
 	]
