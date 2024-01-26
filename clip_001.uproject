@@ -169,6 +169,23 @@
 		{
 			"Name": "ChaosClothGenerator",
 			"Enabled": true
+		},
+		{
+			"Name": "NukeServer",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Linux",
+				"Mac",
+				"Win64"
+			]
+		},
+		{
+			"Name": "DMXFixtures",
+			"Enabled": true
+		},
+		{
+			"Name": "DMXEngine",
+			"Enabled": true
 		}
 	]
 }
