@@ -169,6 +169,14 @@
 		{
 			"Name": "ChaosClothGenerator",
 			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
+		},
+		{
+			"Name": "GolaemPlugin",
+			"Enabled": true
 		}
 	]
 }
