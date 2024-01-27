@@ -181,6 +181,10 @@
 		{
 			"Name": "DMXControlConsole",
 			"Enabled": true
+		},
+		{
+			"Name": "GeometryCacheAbcFile",
+			"Enabled": true
 		}
 	]
 }
