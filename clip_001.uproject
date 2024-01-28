@@ -171,6 +171,7 @@
 			"Enabled": true
 		},
 		{
+<<<<<<< HEAD
 			"Name": "DMXFixtures",
 			"Enabled": true
 		},
@@ -180,6 +181,13 @@
 		},
 		{
 			"Name": "DMXControlConsole",
+=======
+			"Name": "NiagaraFluids",
+			"Enabled": true
+		},
+		{
+			"Name": "GolaemPlugin",
+>>>>>>> parent of 1aaf82b (Merge branch 'tyler' of https://github.com/ninablxgo/intensif_clubbing into tyler)
 			"Enabled": true
 		}
 	]
