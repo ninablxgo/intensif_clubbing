@@ -185,6 +185,10 @@
 		{
 			"Name": "GeometryCacheAbcFile",
 			"Enabled": true
+		},
+		{
+			"Name": "GolaemPlugin",
+			"Enabled": true
 		}
 	]
 }
