@@ -171,11 +171,19 @@
 			"Enabled": true
 		},
 		{
-			"Name": "NiagaraFluids",
+			"Name": "DMXEngine",
 			"Enabled": true
 		},
 		{
-			"Name": "GolaemPlugin",
+			"Name": "DMXFixtures",
+			"Enabled": true
+		},
+		{
+			"Name": "DMXControlConsole",
+			"Enabled": true
+		},
+		{
+			"Name": "GeometryCacheAbcFile",
 			"Enabled": true
 		}
 	]
