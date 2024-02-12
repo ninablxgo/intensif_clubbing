@@ -169,26 +169,6 @@
 		{
 			"Name": "ChaosClothGenerator",
 			"Enabled": true
-		},
-		{
-			"Name": "DMXEngine",
-			"Enabled": true
-		},
-		{
-			"Name": "DMXFixtures",
-			"Enabled": true
-		},
-		{
-			"Name": "DMXControlConsole",
-			"Enabled": true
-		},
-		{
-			"Name": "GeometryCacheAbcFile",
-			"Enabled": true
-		},
-		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true
 		}
 	]
 }
